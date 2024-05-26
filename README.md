@@ -36,7 +36,7 @@
 ## 📫 Contacto
 
 - **Correo**: [jm.chaconmorales@gmail.com](mailto:jm.chaconmorales@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/josé-miguel-chacón-954886178/)
+- **LinkedIn**: [linkedin.com/in/josé-miguel-chacón](https://www.linkedin.com/in/josé-miguel-chacón-954886178/)
 
 ## 🌟 Contribuciones
 

@@ -30,13 +30,13 @@
 
 ## 📚 Educación
 
-- **Máster en Ciencia de Datos** - [Nombre de la Universidad]
-- **Grado en Estadística** - [Nombre de la Universidad]
+- **Diplomado en Ciencia de Datos** - [CoderHouse]
+- **Ingiería Civil Industrial** - [Universidad Andres Bello]
 
 ## 📫 Contacto
 
-- **Correo**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
+- **Correo**: [jm.chaconmorales@gmail.com](mailto:jm.chaconmorales@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/josé-miguel-chacón-954886178/)
 
 ## 🌟 Contribuciones
 
